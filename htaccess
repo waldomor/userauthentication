@@ -11,7 +11,7 @@ RewriteRule ^(.*)$ $1.php [NC,L]
 DirectoryIndex login.php
 #DirectoryIndex index.php
 
-<Directory /var/www/waldomar.byethost10.com/uploads>
+<Directory /var/www/*****/uploads>
  php_flag engine off
 </Directory>
 

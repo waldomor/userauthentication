@@ -40,7 +40,7 @@ $_SESSION['timeout'] = time();
 	<body>
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 	<div class="navbar-header">
-        <a class="navbar-brand" rel="home" href="waldomar.byethost10.com/welcome.php">Home</a>
+        <a class="navbar-brand" rel="home" href="*****/welcome.php">Home</a>
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 		<span class="sr-only"> </span>
 		<span class="icon-bar"></span>

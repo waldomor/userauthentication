@@ -52,7 +52,7 @@ if (isset($_POST["sub"])) {
 
         $mail->SMTPAuth = true;                  
         $mail->SMTPSecure = "tls";                
-        $mail->Host = "smtp.gmail.com";      
+        $mail->Host = "***";      
         $mail->Port = 587;                 
               
 
@@ -62,7 +62,7 @@ if (isset($_POST["sub"])) {
         $mail->SetFrom('**********@gmail.com', 'waldomar');
         $mail->AddAddress($email);
 
-        $mail->Subject = trim("Email Verifcation - www.waldomar.byethost10.com");
+        $mail->Subject = trim("Email Verifcation - ***");
         $mail->MsgHTML($message);
 
         try {
