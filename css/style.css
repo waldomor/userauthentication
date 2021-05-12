@@ -1,0 +1,27 @@
+<style>
+A {text-decoration: none !important;}
+
+a:hover .btn-group { text-decoration: none }
+a .btn-group:hover { text-decoration: none }
+a:hover .btn-group .btn { text-decoration: none }
+a .btn-group .btn:hover { text-decoration: none }
+
+body 
+{
+  text-decoration: none !important;
+}
+
+
+
+#mag {
+  width: 10%;
+  height: auto;
+  border-radius: 60%;
+}
+
+#waldo {
+
+    background-image:"bitmapd.png";
+}
+
+</style>
